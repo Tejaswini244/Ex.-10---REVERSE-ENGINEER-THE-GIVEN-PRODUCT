@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 25/11/24
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,11 +32,14 @@
 
 ## Input:
 
+![image](https://github.com/user-attachments/assets/a4122ed6-5fd6-4326-bd4c-c15d30c1d362)
+
 ### Output:
 
+![image](https://github.com/user-attachments/assets/4b0c6483-0bae-4f9a-a4f9-8c0dda7ad35d)
 
-### Name:
-### Register Number:
+### Name:TEJASWINI R
+### Register Number:24009408
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
